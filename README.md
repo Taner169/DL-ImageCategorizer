@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook (`DeepLearning_ImageClassify.ipynb`)
 
 ## Dataset
 
-- **Source**: [Kaggle - Multiclass Image Dataset (Airplanes, Cars, Ships)](https://www.kaggle.com/datasets/abtabm/multiclassimagedatasetairplanecar)
+- **Source**: [Kaggle - Multiclass Image Dataset (Airplane, Car, Ship)](https://www.kaggle.com/datasets/abtabm/multiclassimagedatasetairplanecar)
 - **Author**: Taner
 - **Directory**: `image_Classification_CNN`
 
